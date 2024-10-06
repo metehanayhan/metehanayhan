@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently learning **Artificial Intelligence**  
 - 📫 How to reach me:  
-  - **Email**: [metehanayhan1213@gmail.com](mailto:metehanayhan1213@gmail.com)  
-  - **LinkedIn**: [linkedin.com/in/metehan-ayhan-944405263](https://www.linkedin.com/in/metehan-ayhan-944405263)  
-
+  - **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:metehanayhan1213@gmail.com)  
+  - **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metehan-ayhan-944405263)  
 ---
